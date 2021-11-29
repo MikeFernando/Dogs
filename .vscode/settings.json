@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true,
+    ".gitignore": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "public": true,
+    "yarn.lock": false
+  },
+  "cSpell.words": [
+    "Cadastrar",
+    "Criar",
+    "Entrar",
+    "Esqueci",
+    "minha",
+    "senha",
+    "usuario",
+    "Usuário"
+  ]
+}
